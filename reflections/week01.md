@@ -24,6 +24,14 @@ In my opinion the lack of specification in the initial requirement meant that th
 ## Researching a software failure
 source: https://onlineethics.virginia.edu/cases/therac-25/therac-25-case-narrative
 
-The Therac 25 radiation therapy machine caused at least 6 radiation overdoses between 1985 and 1987. When investigated it was found that the software defects were a major cause. Different parts of the software could access data without properly synchronising meaning if someone entered treatment information too quickly the machine would enter an unsafe state. The investigation also found improper testing, documentation and safety analysis wit hthe software.
+The Therac 25 radiation therapy machine caused at least 6 radiation overdoses between 1985 and 1987. When investigated it was found that the software defects were a major cause. Different parts of the software could access data without properly synchronising meaning if someone entered treatment information too quickly the machine would enter an unsafe state. The investigation also found improper testing, documentation and safety analysis with the software.
+
+
+## Is there still a software crisis?
+
+One additional fact is that the 1968/69 NATO Software Engineering Conferences were organised through the NATO Science Committee. In my opinion there is still a software crisis today, except with different problems as software has become more advanced. The Therac 25 failure shows that even with modern engineering practices, complex systems can still fail when software interacts with hardware and real world situations. I think that the 1968 crisis has not gone completely but has evolved alongside modern software practices.
+
+
+
 
 The Therac 25 combined software, hardware, operator input and safety controls. This complexity made the interactions difficult to predict and test, allowing a rare timing error to result in serious consequences.
