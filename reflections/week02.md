@@ -4,14 +4,16 @@ AIM: Apply process model selection criteria to contrasting project briefs and ju
 Aegis FLight Control
 I would choose a waterfall model for this project. The requirements are very well understood and stable. Safety is of
 high concern so thorough testing and documentation are essential. The 12-18 month timeline creates a structured process. 
-Customer involvement would be relatively low as engineering and certification are what drive the project.
+Customer involvement would be relatively low as engineering and certification are what drive the project. A risk would
+be a late requirement change would be costly and difficult to modify.
 
 Riverside Bakery Website
 Rapid Application Development was chosen for this model. The requirements are uncertain are subject to change. There is a
 three week deadline that requires rapid development. The owner is available to provide frequent feedback, meaning prototypes
-and quick iterations are helpful. Risk and complexity are low.
+and quick iterations are helpful. Risk and complexity are low. The short deadline is a huge risk and could lead to bugs.
 
 CampusCircle App
 I chose an incremental approach. The requirements are expected to change significantly after students try early versions. 
 The incremental approach allows teams to release a basic usable version first and then add features based on feedback. The 
-deadline creates pressure and user involvement is important.
+deadline creates pressure and user involvement is important. There is a risk to adding multiple increments and their
+compatibility between different parts of the app.
