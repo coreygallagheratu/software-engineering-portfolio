@@ -18,6 +18,14 @@ The incremental approach allows teams to release a basic usable version first an
 deadline creates pressure and user involvement is important. There is a risk to adding multiple increments and their
 compatibility between different parts of the app.
 
+
+Task 2:
+question : "Why would you not use incremental for the flight system?"
+Answer: Because the project has a high safety risk documentation is very important. The requirements are also set 
+before the project even begins and are stable. If the project is released in increments it leads to huge safety 
+concerns as not every part is tested for compatibility and usability. The waterfall model is a better approach
+for this project.
+
 Task 3:
 A payroll management software would be suitable for a waterfall model. The software requirements such as salaries,
 taxes, working hours, and generating payslips could be defines clearly early on.
