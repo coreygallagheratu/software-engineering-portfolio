@@ -1,2 +1,15 @@
 Week 3 Task 1
 
+In the CampusEats project the client's mid project request to add a feature allowing a single order 
+to be split across multiple resteraunts adds a large disruption to a traditional waterfall process.
+Requirements, design and implementation are locked behind each other, meaning change would require 
+extensive rework. The requirement document has to be updated and re approved, the design such as UI
+demos and data models would need reworked, and finally completed code would need to be modified
+and retested. Each stage of development would need new documentation, and more work leading to higher
+costs and schedule delays.
+
+On the otherhand, if the team were working in two week agile increments, the change would be absorbed
+smoothly. The new feature would be added to the backlog, and prioritised during sprint planning. 
+Constant integration and testing would rule out issues early, and client feedback could be incorporated
+on a regular basis. Altogether the agile approach reduces the amolunt of reworking and cost while 
+keeping its flexibility and involving characteristics.
