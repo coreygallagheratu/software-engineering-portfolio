@@ -1,1 +1,19 @@
 Week 3 Task 2
+
+QuickBuild Solutions has multiple weaknesses in its current workflow
+Requirements are verbally communicated meaning there is a huge risk of misunderstandings and details being 
+left out and forgotten. A priority must have improvement would be to start using a digital backlog tool 
+like Jira to record and track these requirements. This would be low cost and reduce the risk of missing requirements.
+
+There is a lack of reviewing and testing code. This means that bugs, and bad sloppy code are being 
+pushed straight to the main branch without any real testing or reviewing. Agile methods such as 
+pair programming or utilising pull requests in github would catch these issues before they are commited.
+This "Should" be a necessary improvement otherwise a sloppy final product would be released.
+
+Due there being no changelogs or release notes, clients are unaware of any updates. This creates confusion 
+and damages the trust between clients and QuickBuild. Agile models use sprint reviews and release documentation
+as they go along. Automatic release notes "Could" enhance communication and increase professionalism.
+
+Altogether these improvements are low cost steps toward a more lightweight process. They strengthen
+QuickBuild's development practices without introducing heavy bureaucracy.
+
